@@ -1,4 +1,4 @@
-# Refactor Needed - Originally Build in 2014 using VB.Net
+# Refactor Needed - Originally Built in 2014 using VB.Net
 
 # Autodesk-Inventor-WPF-Add-in-Template
 An Autodesk Inventor WPF based add-in template with wizard interface.
